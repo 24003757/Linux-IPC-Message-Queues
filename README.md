@@ -28,6 +28,7 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
+<img width="1158" height="398" alt="Screenshot from 2025-09-24 08-38-41" src="https://github.com/user-attachments/assets/0293d26e-d725-4bfb-b027-30fa1a31e346" />
 
 
 
